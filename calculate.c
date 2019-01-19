@@ -18,7 +18,7 @@ int main()
 
     printf("SUM = %d\n", sum);
     printf("DIFFERENCE = %d\n", sub);
-    printf("multiply=%d",mult);
+    printf("multy=%d",mult);
 
     return 0;
 }
