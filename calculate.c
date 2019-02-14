@@ -7,8 +7,6 @@ int main()
     float div;
 
 
-    printf("Enter any two numbers: ");
-    scanf("%d%d", &num1, &num2);
 
 
     sum = num1 + num2;
